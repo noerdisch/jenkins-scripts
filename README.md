@@ -1,3 +1,11 @@
+<p align="center">
+    <img src="https://cdn.rawgit.com/markusguenther/abe70d34f4a4621aed0ef504c5d0192b/raw/5bf0f3df328e58ba7aad067a56cbd1c15ef69491/logo_full.svg" width="300">
+</p>
+
+[![Packagist](https://img.shields.io/github/license/noerdisch/jenkins-scripts.svg)](https://github.com/noerdisch/jenkins-scripts/releases)
+[![Twitter Follow](https://img.shields.io/twitter/follow/noerdisch.svg?style=social&label=Follow&style=flat-square)](https://twitter.com/noerdisch)
+
+
 # Scripts for Jenkins CI
 
 This repository is some sort of "desperate measure" as we use [Jenkins CI](https://jenkins.io) quite a lot but sometimes plugins don't provide the functionality needed. Most of what we need in addition is written in [Groovy](http://groovy-lang.org/) to talk to other services, some of those are open sourced here. It may not always be truly elegant, but does the job while running stable in daily operations.
