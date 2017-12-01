@@ -16,7 +16,7 @@ This repository is some sort of "desperate measure" as we use [Jenkins CI](https
 
 We're using a single, generic [SonarQube](https://www.sonarqube.org/) Job for most projects providing some good insight into Code Quality in terms of Static Analysis.
 
-Neither of the SonarQube Quality Gates Plugins for Jenkins provided provides a Build Step which can handle dynamic project keys (e.g. by using Jenkins Variables), so we wrote this little Groovy script to fail the build in case SonarQube reports a failed Quality-Gate.
+Neither of the SonarQube Quality Gates Plugins for Jenkins provides a Build Step which can handle dynamic project keys (e.g. by using Jenkins Variables), so we wrote this little Groovy script to fail the build in case SonarQube reports a failed Quality-Gate.
 
 This script is depending/tested (and running in production here) on:
 
