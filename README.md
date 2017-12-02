@@ -37,4 +37,4 @@ This Script will poll the SonarQube analysis status and fail the build in case t
 
 ## License
 
-This Vagrant box is licensed under the permissive [MIT license](http://opensource.org/licenses/MIT) - have fun with it!
+This is licensed under the permissive [MIT license](http://opensource.org/licenses/MIT) - have fun with it!
