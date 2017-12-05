@@ -2,7 +2,6 @@
     @Grab(group='org.codehaus.groovy.modules.http-builder', module='http-builder', version='0.7.1')
 )
 import static groovyx.net.http.Method.GET
-import static groovyx.net.http.ContentType.TEXT
 import static groovyx.net.http.ContentType.JSON
 
 
